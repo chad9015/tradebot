@@ -1,0 +1,6 @@
+alpaca-trade-api
+pandas
+pandas-ta
+streamlit
+python-dotenv
+plotly
